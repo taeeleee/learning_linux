@@ -35,7 +35,7 @@ $ cd practice
 ```
 - `cd [경로]`: 지정한 디렉토리로 이동합니다.
 
-## 5. 파일·디렉토리 생성 및 삭제
+## 5. 파일·디렉토리 생성 및 삭제 (`touch`, `rm`)
 ```bash
 $ mkdir practice2       # practice 내에 practice2 디렉토리 생성
 $ touch example.py      # 빈 파일(example.py) 생성
